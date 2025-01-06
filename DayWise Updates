@@ -1,0 +1,16 @@
+Day-Wise Updates:
+
+Day 1:
+
+Initiated the project idea and summarized its objectives.
+Drafted the initial scope of the application and identified key functionalities, focusing on leveraging LLM APIs for sentiment analysis and market insights.
+Day 2:
+
+Completed the project setup, including folder structure and basic dependencies.
+Registered for NewsAPI and OpenAI keys to enable API integration.
+Drafted a plan for API-based data fetching and processing workflows.
+Day 3:
+
+Set up a GitHub repository to manage project development.
+Successfully initialized NewsAPI integration and fetched initial headline data.
+Configured OpenAI keys for future LLM-based summarization and sentiment analysis.
